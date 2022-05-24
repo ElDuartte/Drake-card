@@ -6,7 +6,7 @@
 
 body {
   background-color: #ffd100;
-  /* background-image: url(images/stripe.svg); */
+  background-image: url(images/Frame.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
@@ -104,7 +104,7 @@ body {
   align-items: center;
   position: relative;
   z-index: 3;
-  width: 420px;
+  width: 419px;
   top: -5px;
   right: 4px;
 }
